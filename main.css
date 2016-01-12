@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+  background-color: #b3e6ff;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
